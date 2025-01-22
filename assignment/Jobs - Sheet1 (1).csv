@@ -1,0 +1,9 @@
+job,pay,edu,exp,train,n_employed,outlook,change_employment,top_places,physical_work_environment,social_work_environment
+Data Scientist,"108,020",BS,None,None,"202,900",36%,"73,100",DC,office,N/A
+Software Developer,"130,160",BS,None,None,"1,897,100",17%,"327,900",WA,office,team
+Bus Driver,"48,230",High school diploma or equivalent,None,N/A,"559,300",2%,"13,600",AL,bus,solo
+Police and Detective,"74,910",N/A,N/A,Moderate-term on-the-job training,"796,800",4%,"28,700",NM,N/A,team
+Astronomer,"149,530",Doctoral or professional degree,None,None,"23,500",7%,"1,700",MD,"office, laboratory, observatory",N/A
+Professor,"84,380",N/A,N/A,None,"1,397,600",8%,"111,400",RI,university ,N/A
+Optometrist,"131,860",Doctoral or professional degree,None,None,"49,300",9%,"4,300",ND,"office, retail",N/A
+Fitness Trainer,"46,480",High school diploma or equivalent,None,Short-term on-the-job training,"350,100",14%,"47,500",CO,"recreation centers, health clubs, yoga studios",N/A
